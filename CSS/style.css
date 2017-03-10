@@ -1,0 +1,80 @@
+body{
+	font-size: 10px; 
+}
+h1{
+	color: orange;
+	font-size: 100px;
+	font-family: "Amatic SC", Times, serif;
+	font-weight: bold;
+	font-style: italic;
+	text-transform: capitalize;
+
+
+
+}
+
+h1{
+	color:violet !important;
+}
+
+
+
+.destacado1{
+	color: blue;
+	font-size: 50px;
+	font-family: "Abel", Times, serif;
+	
+ 
+
+}
+
+.destacado2{
+	color: blue;
+	font-size: 50px;
+	font-family: "Abel";
+}
+
+.iconos{
+	font-size: 40px;	
+}
+
+
+
+/*
+
+Tratar de evitar
+
+#destacado2{
+	color: red;
+	background: cyan;
+}
+
+*/
+h3{ font-size: 100px;
+	color: #4678FE;
+	font-family: "Amatic SC"
+
+}
+
+	h4{ font-size: 100px;
+		color: black;
+		font-family: "Amatic SC"
+
+
+	 }
+
+	/*
+	font-family: Verdana, Tahoma, sans serif;
+	font-family
+}
+
+h4{
+	background: rgb(200,233,99);
+	 /* 0 es el numero mas bajo y 255 el mas alto . RGBA significa red green blue alfa tresprimeros canales 
+colores ultimo canal alfa 0 invisible 
+y 1 100% visible, hay que jugar con las 
+fracciones del medio lo que va a
+ permitir variar el color.*/
+	 color: rgba(0,0,0,0.5);
+}
+
